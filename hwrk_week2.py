@@ -158,3 +158,5 @@ if win == True:
     print("You win!")
 elif win == False:
     print("You lose!")
+
+#game not finished, test change
